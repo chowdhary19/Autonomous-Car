@@ -117,6 +117,6 @@ Created by [Yuvraj Singh Chowdhary](https://github.com/chowdhary19)
 ![Self Driving Car](public/3.jpeg)
 
 For detailed information, code examples, and further reading, refer to the provided links and documentation. This project aims to advance the understanding and implementation of self-driving car technologies using cutting-edge deep learning methods.
-```
+
 
 
