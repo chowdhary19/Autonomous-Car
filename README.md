@@ -119,4 +119,4 @@ Created by [Yuvraj Singh Chowdhary](https://github.com/chowdhary19)
 For detailed information, code examples, and further reading, refer to the provided links and documentation. This project aims to advance the understanding and implementation of self-driving car technologies using cutting-edge deep learning methods.
 ```
 
-This README file is comprehensive, detailed, and provides all necessary instructions and references for your project. Ensure you have the corresponding images in the `public` folder, and update any links or paths according to your specific setup.
+
