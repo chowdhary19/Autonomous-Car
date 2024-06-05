@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by [Yuvraj Singh Chowdhary](https://github.com/chowdhary19)
 
-![Self Driving Car](public/self_driving_car2.jpg)
+
 
 ---
 
